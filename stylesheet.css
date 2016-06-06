@@ -8,3 +8,8 @@
   border:3px solid black;
   border-radius:5px;
 }
+
+#body_text{
+  border:3px dotted green;
+  width:35%;
+}
