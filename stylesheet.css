@@ -3,3 +3,8 @@
     size:25px;
     font:Arial;
   }
+  
+  #title{
+    border:3px solid bold;
+    border-radius:5px;
+  }
