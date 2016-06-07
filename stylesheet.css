@@ -16,8 +16,7 @@
 }
 #my_pic{
   width:25%;
-  /*padding-left:250px;*/
-  /*margin-left:750px;*/
+  margin-left:100px;
   display:inline-block;
   position:relative;
 }
