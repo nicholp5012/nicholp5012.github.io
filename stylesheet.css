@@ -20,3 +20,12 @@
   display:inline-block;
   position:fixed;
 }
+#tasty{
+  color:red;
+  font-size:25px;
+  font-family:Arial;
+}
+#mouth{ 
+  color:orange;
+  font-size:25px;
+  font-family:Arial;
