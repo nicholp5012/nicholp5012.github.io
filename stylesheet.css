@@ -12,6 +12,7 @@
 #body_text{
   border:3px dotted green;
   width:65%;
+  font-size:20px;
 }
 #my_pic{
   width:25%;
