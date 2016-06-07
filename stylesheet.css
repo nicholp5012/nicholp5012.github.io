@@ -16,9 +16,9 @@
 #my_pic{
   width:25%;
   padding-left:100px;
-  margin-left:450px;
+  margin-left:250px;
   display:inline-block;
-  position:fixed;
+  position:relative;
 }
 #tasty{
   color:red;
