@@ -17,6 +17,6 @@
   width:25%;
   padding-left:100px;
   margin-left:50px;
-  display:inline;
-  positon:fixed;
+  display:inline-block;
+  position:fixed;
 }
